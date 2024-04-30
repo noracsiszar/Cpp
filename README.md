@@ -18,6 +18,5 @@ The GPA calculator calculates the GPA of a student for a semester for 3 courses 
 - and ECTS points
 - The user defines the grades on a range from A+ to F and the ECTS points
 - the total GPA is calculated by the formula of
-  GPA = ((math_ects * math_grade_in_numbers) 
-+ (biology_ects * biology_grade_in_numbers) 
-+ (physics_ects * physics_grade_in_numbers))/(math_ects+biology_ects+physics_ects);
+     
+  GPA = ((math_ects * math_grade_in_numbers)  + (biology_ects * biology_grade_in_numbers)  + (physics_ects * physics_grade_in_numbers))/(math_ects+biology_ects+physics_ects);
