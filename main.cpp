@@ -1,5 +1,5 @@
 //
-//  main.cpp
+//  cpp_1_ccyconverter.cpp
 //  ccyconverter
 //
 //  Created by Nora Csiszar on 30.04.24.
