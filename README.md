@@ -20,3 +20,8 @@ The GPA calculator calculates the GPA of a student for a semester for 3 courses 
 - the total GPA is calculated by the formula of
      
   GPA = ((math_ects * math_grade_in_numbers)  + (biology_ects * biology_grade_in_numbers)  + (physics_ects * physics_grade_in_numbers))/(math_ects+biology_ects+physics_ects);
+
+C++ Project number3: RockpaperScissor game
+One round of RockpaperScissor game.
+The user chooses Rock, Paper or Scissor and the computer chooses a random of the three (corresponding to a random number).
+an If loop compares user input with random computer number and splits out the text who won/lost.
