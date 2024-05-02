@@ -25,3 +25,13 @@ C++ Project number3: RockpaperScissor game
 One round of RockpaperScissor game.
 The user chooses Rock, Paper or Scissor and the computer chooses a random of the three (corresponding to a random number).
 an If loop compares user input with random computer number and splits out the text who won/lost.
+
+C++ Project number4: Using function incl. a loop
+Let us solve a simple problem:
+Your are given 3 lines of input.
+Each line consists of 2 space separated integers - A and B
+For each input - you need to compute and output the following on separate lines: 
+A + B
+A^2 + 2*AB + B^2
+
+
