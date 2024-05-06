@@ -40,4 +40,7 @@ Let us solve a simple problem:
 - The user enters the amount of grade he wants to convert.
 - The result gets printed out to the console.
 
-
+# C++ Proejct number6: The product purchase price calculator using functions
+- The purchase price calculation for a product is based on Listenpreis (list price), der Menge (quantity), dem Skonto (discount), dem Rabatt (discount2) und den Versandkosten (shipping costs)
+- The user enters the all variables, the discounts in %.
+- The result gets printed out to the console.
