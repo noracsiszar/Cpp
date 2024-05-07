@@ -56,3 +56,8 @@ Let us solve a simple problem:
 - User choosing operation +,-,*,/
 - Calculator printing out the result to the console
 - Calculator asking user for new input as long as user would like to perform a new calculation (while break loop)
+
+# C++ Project number 9: Random number guessing game between 0-9.
+- The computer generates a random number between 0-9.
+- The user keeps guessing until he/she didn't guess right.
+
