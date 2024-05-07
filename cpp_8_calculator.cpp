@@ -97,6 +97,7 @@ int main() {
     while (ContinueCalc == 'y' || ContinueCalc == 'Y') {
         // Input values and operation
         EnterValues(number1, number2, userChoice);
+        int result = 0;
         CalculateResult(userChoice, number1, number2, result);
         PrintResult(number1, userChoice, number2, result);
         ContinueCalculation(ContinueCalc);
