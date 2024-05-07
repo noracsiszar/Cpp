@@ -45,7 +45,14 @@ Let us solve a simple problem:
 - The user enters the all variables, the discounts in %.
 - The result gets printed out to the console.
 
-# C++ Project number 7: TIC TAC TOE.
+# C++ Project number 7: Tic Tac Toe.
 - The user decides who starts the game (The user or the computer).
 - Grid 3x3 is drawn and defined by rows and columns
 - Game ends with draw or win or lose.
+
+# C++ Project number 8: Calculator.
+- Calculator printed out to the console
+- User choosing number1, number2
+- User choosing operation +,-,*,/
+- Calculator printing out the result to the console
+- Calculator asking user for new input as logn as user would like to perform a new calculation (while break loop)
