@@ -55,4 +55,4 @@ Let us solve a simple problem:
 - User choosing number1, number2
 - User choosing operation +,-,*,/
 - Calculator printing out the result to the console
-- Calculator asking user for new input as logn as user would like to perform a new calculation (while break loop)
+- Calculator asking user for new input as long as user would like to perform a new calculation (while break loop)
