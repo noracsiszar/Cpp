@@ -36,4 +36,5 @@ int main() {
     } else {
         std::cout << "Invalid input!\n";
     }
+    return 0 ;
 }
