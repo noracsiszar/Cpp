@@ -61,3 +61,16 @@ Let us solve a simple problem:
 - The computer generates a random number between 0-9.
 - The user keeps guessing until he/she didn't guess right.
 
+# C++ Project number 10: Odd/Even Number
+- The user enters a number
+- The computer decides if the number is even or not (% 2 != 0).
+- The user can enter a new number if he/she wishes to continue the analysis (y/n).
+  
+# C++ Project number 11: Factorial Calculation
+- The user enters a number
+- The computer calculates the factorial and print it out.
+- The user can enter a new number if he/she wishes to continue the calculation with a new number (y/n).
+
+# C++ Project number 12: Reverse Text.
+- The user enters a string text (char doesnt work for reversal).
+- The computer reads out the reversed text.
