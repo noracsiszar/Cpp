@@ -1,7 +1,7 @@
 //implementing an odd/event checker
 //asking the user for a number and determining if it is odd or even
 #include <iostream>
-#include <typeinfo>
+
 
 bool IsOdd (int number) {
 
