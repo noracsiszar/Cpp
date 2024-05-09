@@ -158,6 +158,6 @@ gpa = ((math_ects * math_point)
 std::cout <<"Your GPA credit is " << gpa << "\n";
 
 
-            
+ return 0;          
             
             }
